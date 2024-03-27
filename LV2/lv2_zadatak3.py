@@ -54,7 +54,7 @@ plt.axis('off')
 
 plt.subplot(2, 3, 6)
 plt.imshow(cropped_img)
-plt.title('Ograničena slika')
+plt.title('Ogranicena slika')
 plt.axis('off')
 
 plt.tight_layout()
