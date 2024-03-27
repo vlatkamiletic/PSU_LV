@@ -19,5 +19,4 @@ plt.axis([0, 4, 0, 4])
 plt.xlabel('x os')
 plt.ylabel('y os')
 plt.title('Primjer')
-plt.grid(True)  # opcionalno dodajemo mrežu
 plt.show()
